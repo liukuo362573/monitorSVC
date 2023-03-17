@@ -1,4 +1,4 @@
-# monitorSVC
+# monitorSVC for arm32
 > Used to monitor svc calls of running android apps
 
 ## Usage
