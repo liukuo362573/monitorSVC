@@ -22,6 +22,7 @@
 #include <unistd.h>
 #include <errno.h>       
 #include <sys/mman.h>
+#include <sys/syscall.h>
 
 #define _XOPEN_SOURCE 500  /* include pread,pwrite */
 #define _GNU_SOURCE
